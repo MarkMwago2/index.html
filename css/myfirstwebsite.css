@@ -1,0 +1,35 @@
+h1 {
+  color: blue;
+
+}
+
+h2
+{color: green;
+font-style: italic;
+text-align: center;
+
+}
+
+p {font-family: sans-serif;
+  color: red;
+
+}
+
+ol {line-height: 40px;
+
+}
+
+p {background-color: darkgreen;
+font-size: 20;
+
+}
+
+li{
+  list-style: circle;
+
+  font-family: cursive;
+  em: bold;
+  strong: italic;
+
+
+}
